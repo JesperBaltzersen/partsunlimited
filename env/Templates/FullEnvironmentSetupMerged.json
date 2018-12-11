@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "WebsiteName": {
-      "type": "string"
+      "type": "string",
     },
     "PartsUnlimitedServerName": {
       "type": "string"

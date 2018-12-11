@@ -3,37 +3,37 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "WebsiteName": {
-            "value": ""
+            "value": "pujbwebsitename"
         },
         "PartsUnlimitedServerName": {
-            "value": ""
+            "value": "pujbservername"
         },
         "PartsUnlimitedHostingPlanName": {
-            "value": ""
+            "value": "pujbhostplanname"
         },
         "CdnStorageAccountName": {
-            "value": ""
+            "value": "pujbcdnaccountname"
         },
         "CdnStorageContainerName": {
-            "value": ""
+            "value": "pujbcdnstoragecontainername"
         },
         "CdnStorageAccountNameForDev": {
-            "value": ""
+            "value": "pujbstorageaccountnamefordev"
         },
         "CdnStorageContainerNameForDev": {
-            "value": ""
+            "value": "pujbcdnstoragecontainernamefordev"
         },
         "CdnStorageAccountNameForStaging": {
-            "value": ""
+            "value": "pujbcdnstorageaccountnameforstaging"
         },
         "CdnStorageContainerNameForStaging": {
-            "value": ""
+            "value": "pujbstoragecontainernameforstaging"
         },
         "PartsUnlimitedServerAdminLoginPassword": {
-            "value": ""
+            "value": "Passw0rd"
         },
         "PartsUnlimitedServerAdminLoginPasswordForTest": {
-            "value": ""
+            "value": "Passw0rd"
         }
     }
 }
